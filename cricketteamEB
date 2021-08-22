@@ -1,0 +1,60 @@
+cricketteam = ["Joe Root", "Ben Stokes", "James Anderson", "Sam curran"]
+selectionlist = ["Joe Root", "Ben Stokes", "James Anderson", "Sam curran","Ollie Robinson", "Jos Buttler", "Jonny Bairstow", "Moeen Ali", "Mark Wood", "Jason Roy", "Jofra Archer", "Dawid Malan"]
+playersrecord =["Win-10", "Lose-9", "Draw-9"]
+
+q = True
+
+while q == True:
+
+    print("\n++++++ Welcome to England cricket Board ECB ++++++\n")
+    print("[Choice 1: Showing the List of Player IN ECB  ]")
+    print("[Choice 2: Add New Player]")
+    print("[Choice 3: Searching Player]")
+    print("[Choice 4: Dropping a Player]\n")
+
+    x = int(input("Enter a choice: "))
+
+    if x == 1:
+        valt = str(input("DO YOU WANT TO SELECTION LIST OR NOT: YES OR NO "))
+        valt = valt.upper()
+        if valt =="YES":
+            print("player in the current ECB Team \n")
+            print(cricketteam)
+            print("player in the selection List of  ECB \n")
+
+            print(selectionlist)
+        else:
+            print(cricketteam)
+    elif x == 2:
+        addnewmember = str(input("Enter New player: "))
+        cricketteam.append(addnewmember)
+
+        print("The England Team  Player\n")
+
+        for cricket in cricketteam:
+          print(cricket)
+
+    elif x==3:
+         playersearching = input("Choose the Name of the player To Search: ")
+
+         if (playersearching in cricketteam):
+
+            print("\n++ There is a Record Found in team ECB")
+         else:
+            print("\n++ There is No Player Found in the  ECB ")
+
+    elif x == 4:
+        playerdelete = input("Choose a Student Name To Delete: ")
+        if (playerdelete in cricketteam):
+              cricketteam.remove(playerdelete)
+              for cricket in cricketteam:
+                 print(cricket)
+        else:
+            print("\n++ There is No Player Found in the  ECB ++")
+
+    choice = str(input("DO YOU WANT TO CONTINUE OR NOT: YES OR NO "))
+    choice = choice.upper()
+    if (choice == "YES"):
+       q = True
+    else:
+      q = False
