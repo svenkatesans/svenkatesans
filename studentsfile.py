@@ -3,6 +3,8 @@ from operator import itemgetter
 studentlist = []
 marks = []
 agez = []
+studentclass=[]
+teachers = []
 q = True
 
 maxstudents = int(input("Enter Number of Students: "))
@@ -14,6 +16,11 @@ for i in range(0, maxstudents):
         print("Enter Age: ")
         age = input()
         agez.append(age)
+        teachername = str(input("Enter Teacher Name: "))
+        teachers.append(teachername)
+
+        slass = input("ENTER THE CLASS ")
+        studentclass.append(slass)
         subject = int(input("Enter Mark for Subject1: "))
         marks.append(subject)
         marks2 = int(input("Enter Mark for Subject 2: "))
@@ -43,12 +50,12 @@ while q == True:
             print("LIST OF STUDENTS \n")
             for m in range(0,maxstudents):
                  print('Name of the student is ' + str(studentlist[m]))
-                 print('AGE OF THE STUDENT ' + str(agez[m]))
+                 print('AGE OF THE STUDENT ' + str(agez[m]) + " AND SECTION OF THE STUDENT   " + str(studentclass[m]))
                  for k in range(5):
-                  print(' THE mark in the subject' + str(k+1) + "=" + str(marks[k]))
-            # print("LIST OF STUDENTS  in order \n")
+                  print(' The mark in the subject' + str(k+1) + "=" + str(marks[k]))
+            print("LIST OF STUDENTS  in order \n")
 
-            #print(sorted(studentlist, key=itemgetter(0)))
+             # print(sorted(studentlist[g], key=itemgetter(0)))
             #print(agez)
         else:
             print(studentlist)
@@ -58,18 +65,23 @@ while q == True:
         studentlist.append(addnewmember)
         age = str(input("Enter New  Student Age: "))
         agez.append(age)
+        teachername = str(input("Enter Teacher Name: "))
+        teachers.append(teachername)
         print("The STUDENT LIST \n")
-        for student in studentlist:
-          print(student)
-        print ("the appended age list")
-        print(agez)
+        for i in range(0,maxstudents):
+            print(' New student Record Added in the list is --' + str(studentlist[i+1].upper()) + ' with the age ' + str(agez[i+1]) + " and the teacher for the student is " + str(teachers[i+1].upper()))
 
-    elif x==3:
+    elif x == 3:
          playersearching = input("Choose the Name of the Student To Search: ")
 
          if (playersearching in studentlist):
+             playerindex = studentlist.index(playersearching)
+             mentor = str(input("Enter the new teacher name"))
+             teachers[playerindex] = mentor
+             print(' There is a Record Found in the list for the student--' + str(
+                 playersearching) + ' the new teacher for the student is--' + str(teachers[playerindex]))
 
-            print("\n++ There is a Record Found in the list ")
+
          else:
             print("\n++ There is No Student Found in the  LIST ")
 
