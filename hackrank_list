@@ -1,0 +1,30 @@
+N = int(input())
+live = []
+lit = []
+i = 0
+for i in range(N):
+    x = input().split()
+    print(x)
+    #c =x[0]
+    #ar =x[1:]
+    # x, y,z = [str(x) for x in input("Enter two value: ").split() if x == "append" or "insert"]
+    if x[0] == "append":
+        y =x[1]
+        live.append(int(y))
+    elif x[0] == "insert":
+        y = x[1]
+        z = x[2]
+        live.insert(int(y), int(z))
+    elif x[0] == "remove":
+        y = x[1]
+        #print(y)
+        #print(live)
+        live.remove(int(y))
+    elif x[0] == "sort":
+        live.sort()
+    elif x[0] == "print":
+        print(live)
+    elif x[0] == "reverse":
+        live.sort(reverse=True)
+    elif x[0] == "pop":
+        live.pop()
