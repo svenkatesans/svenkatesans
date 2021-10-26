@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svenkatesans
-- 👀 I’m interested in  python projects
+- 👀 I’m interested in  python and django projects
 - 🌱 I’m currently learning python and test automation tools
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me svsan81@gmail.com
