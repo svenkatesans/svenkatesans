@@ -2,7 +2,6 @@
  
 Expertise in the area of Software Engineering through my academic qualification and experience in the Software industry. These experiences have built my confidence and interest, which helps me in understanding and adopting to agile process. 
 
-I have recently worked on team projects involving the development and implementation of Portfolio websites as a part of Yrkesutbildning program.
 
 I have little experience as a Quality Engineer in the IT industry. I found that my professional experience as a QA with a broad view that is useful in assisting the end users/clients. Also I have completed the ISTQB Fundamental certification. I have good experience in manual testing and a little exposure to tools.
 
