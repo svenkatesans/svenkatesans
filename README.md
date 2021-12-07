@@ -5,7 +5,7 @@ Expertise in the area of Software Engineering through my academic qualification 
 
 I have little experience as a Quality Engineer in the IT industry. I found that my professional experience as a QA with a broad view that is useful in assisting the end users/clients. Also I have completed the ISTQB Fundamental certification. I have good experience in manual testing and a little exposure to tools.
 
-Software Engineer | Python Developer | Django Developer | Quality Engineer.
+Software Engineer | Python Developer | Quality Engineer.
 
 Skill Stack : Python ,Django, Git & Github, SQL,API.
 
