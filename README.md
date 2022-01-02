@@ -7,12 +7,13 @@ I have little experience as a Quality Engineer in the IT industry. I found that 
 
 Software Engineer | Python Developer | Quality Engineer.
 
-Skill Stack : Python ,Django, Git & Github, SQL,API.
+Skill Stack : Python, Django, Git & Github, SQL,API.
 
 Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 
 Process: Agile and Lean process.
-Security :OWASP top 10
+cloud :Azure.
+Security : Pentesting, OWASP top 10.
 
 - 👋 Hi, I’m @svenkatesans B.Tech (IT),M.Tech(Software Engineering)
 - 👀 I’m interested in python and django projects,Pentesting ,etc
