@@ -14,9 +14,10 @@ Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 Process: Agile and Lean process.
 cloud :Azure.
 Security : Pentesting, OWASP top 10.
+kali Linux Tools Burpsuit,Zap ,Nmap, Hashcat, Aircrak-ng
 
 - 👋 Hi, I’m @svenkatesans B.Tech (IT),M.Tech(Software Engineering)
-- 👀 I’m interested in python and django projects,Pentesting ,etc
+- 👀 I’m interested in python, django and flask projects,cyber security & Pentesting ,etc
 - 🌱 I’m currently learning python and test automation tools
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me svsan81@gmail.com
