@@ -13,8 +13,10 @@ Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 
 Process: Agile and Lean process.
 cloud :Azure.
-Security : Pentesting, OWASP top 10.
+Security : Technology control,Administrive Control (vulnerablity Analysis and Pentesting, OWASP Top 10) and Physical control
+
 kali Linux Tools Burpsuit,Zap ,Nmap, Hashcat, Aircrak-ng
+Operation:DevSecops,CI/CD,Terraform
 
 - 👋 Hi, I’m @svenkatesans B.Tech (IT),M.Tech(Software Engineering)
 - 👀 I’m interested in python, django and flask projects,cyber security & Pentesting ,etc
