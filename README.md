@@ -12,11 +12,20 @@ Skill Stack : Python, Django, Git & Github, SQL,API.
 Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 
 Process: Agile and Lean process.
+
+
 cloud :Azure.
-Security : Technology control,Administrive Control (vulnerablity Analysis and Pentesting, OWASP Top 10) and Physical control
+
+
+Security : Technology control,Administrive Control (vulnerablity Analysis and Pentesting, OWASP Top 10,SANS, NIST,) and Physical control.
+
+
 
 kali Linux Tools Burpsuit,Zap ,Nmap, Hashcat, Aircrak-ng
+
 Operation:DevSecops,CI/CD,Terraform
+
+Application Security – SAST, DAST, security controls
 
 - 👋 Hi, I’m @svenkatesans B.Tech (IT),M.Tech(Software Engineering)
 - 👀 I’m interested in python, django and flask projects,cyber security & Pentesting ,etc
