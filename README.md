@@ -9,19 +9,15 @@ Have CompTIA security certificate
 
 Software Engineer | Python  | Cyber security Engineer.
 
-Skill Stack : Python, Django, Git & Github, SQL,API.
+Skill Stack : Python, Django, DANJGO REST FRAMWORK , Git & Github, PostgreSQL, SQL,API.
 
 Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 
 Process: Agile and Lean process.
 
-
-cloud :Azure.
-
+cloud :Azure and AWS.
 
 Security : Technology control,Administrive Control (vulnerablity Analysis and Pentesting, OWASP Top 10,SANS, NIST,) and Physical control.
-
-
 
 kali Linux Tools Burpsuit,Zap ,Nmap, Hashcat, Aircrak-ng
 
