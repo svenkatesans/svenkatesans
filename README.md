@@ -5,7 +5,7 @@ Expertise in the area of Software Engineering through my academic qualification 
 
 I have little experience as a Quality Engineer in the IT industry. I found that my professional experience as a QA with a broad view that is useful in assisting the end users/clients. Also I have completed the ISTQB Fundamental certification. I have good experience in manual testing and a little exposure to tools.
 
-Have CompTIA security certificate 
+Have CompTIA security + certificate 
 
 Software Engineer | Python  | Cyber security Engineer.
 
@@ -27,6 +27,6 @@ Application Security – SAST, DAST, security controls
 
 - 👋 Hi, I’m @svenkatesans B.Tech (IT),M.Tech(Software Engineering)
 - 👀 I’m interested in python, django and flask projects,cyber security & Pentesting ,etc
-- 🌱 I’m currently learning python and test automation tools
+- 🌱 I’m Good in python and test automation tools
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me svsan81@gmail.com
