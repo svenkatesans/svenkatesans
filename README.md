@@ -9,9 +9,9 @@ Have CompTIA security + certificate
 
 Software Engineer | Python  | Cyber security Engineer.
 
-Skill Stack : Python, Django, DANJGO REST FRAMWORK , Git & Github, PostgreSQL, SQL,API.
+Skill Stack : Python, Django, DANJGO REST FRAMWORK , Git & Github, PostgreSQL, SQL,API,Docker.
 
-Tools: Trello board, postman, source tree, IDs(visual studios code, Pycharm).
+Tools: Jira,Trello board, postman, source tree, IDs(visual studios code, Pycharm).
 
 Process: Agile and Lean process.
 
