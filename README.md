@@ -1,6 +1,4 @@
-A passionate Software Engineer with expertise in analyzing, designing, developing, and testing software in a disciplined manner to help clients achieve their goals. I am committed to delivering exceptional results and enjoy achieving full customer satisfaction through my service.
-
-With a strong academic foundation and professional experience in Software Engineering, I have built confidence and interest in adopting and excelling within agile processes. My experience as a Quality Engineer in the IT industry has equipped me with a broad view that enables me to effectively assist end users and clients. I hold the ISTQB Foundation certification, which complements my experience in manual testing and basic exposure to testing tools.
+Experienced Software & Machine Learning Engineer with a strong background in Python, scalable API development, cloud technologies, and security. Proven ability to build intelligent, high-performance backend systems in fast-paced Agile environments. Passionate about creating user-focused solutions that integrate clean engineering practices with cutting-edge AI/ML capabilities. Brings a blend of hands-on technical expertise and a product-driven mindset to deliver impactful software solutions.
 
 Professional Certifications:
 
