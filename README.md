@@ -1,4 +1,4 @@
-Experienced Software & Machine Learning Engineer with a strong background in Python, scalable API development, cloud technologies, and security. Proven ability to build intelligent, high-performance backend systems in fast-paced Agile environments. Passionate about creating user-focused solutions that integrate clean engineering practices with cutting-edge AI/ML capabilities. Brings a blend of hands-on technical expertise and a product-driven mindset to deliver impactful software solutions.
+Experienced Software Engineer with a strong background in Python, scalable API development, cloud technologies, and security. Proven ability to build intelligent, high-performance backend systems in fast-paced Agile environments. Passionate about creating user-focused solutions that integrate clean engineering practices with cutting-edge AI/ML capabilities. Brings a blend of hands-on technical expertise and a product-driven mindset to deliver impactful software solutions.
 
 Professional Certifications:
 
