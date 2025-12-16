@@ -1,10 +1,21 @@
+Personal Egenskaper
+
+I approach problems in a structured and solution-oriented way, focusing on understanding root causes before taking action.
+
+I work well in team-based environments and value open, respectful collaboration. I communicate clearly and adapt my communication style based on the audience and context.
+
+I am adaptable and comfortable working in changing environments. I have a strong willingness to learn, continuously developing my skills, and I maintain persistence when facing challenges.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Experienced Software security Engineer with a strong background in Software Engineer , Product Security Engineer , SDLC Security, Application & Cloud Security ,Python, scalable API development. My background includes supporting to build intelligent, high-performance backend systems in fast-paced Agile environments. Passionate about creating user-focused solutions that integrate clean engineering practices with cutting-edge AI/ML capabilities. Brings a blend of hands-on technical expertise and a product-driven mindset to deliver impactful software solutions.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Professional Certifications:
 
 ISTQB Foundation Certification
 
 CompTIA Security+ Certification
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Core Expertise:
 
@@ -22,7 +33,7 @@ Project Management Tools: Jira, Trello Board
 Development Environments: Visual Studio Code, PyCharm
 
 Cloud Expertise: AWS , Azure 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Security Skills:
@@ -48,6 +59,7 @@ Static Application Security Testing (SAST)
 Dynamic Application Security Testing (DAST)
 
 Security Controls Implementation
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 My blend of software engineering and product security expertise enables me to contribute and help to building robust, secure, and efficient software systems while adhering to industry best practices and agile methodologies. I am eager to bring this skill set to projects that prioritize innovation and excellence.
 
