@@ -9,7 +9,8 @@ CompTIA Security+ Certification
 Core Expertise:
 
 Software Development: Proficient in Python, Django, Django REST Framework, and API development.
-
+Product security 
+Quality mangement : ISO 9001 QMS
 Version Control & Collaboration: Git, GitHub
 
 Databases: PostgreSQL, SQL
@@ -20,13 +21,11 @@ Project Management Tools: Jira, Trello Board
 
 Development Environments: Visual Studio Code, PyCharm
 
-Cloud Expertise:
+Cloud Expertise: AWS , Azure 
 
-Azure
 
-AWS
 
-Cybersecurity Skills:
+Security Skills:
 
 Technology Controls: Vulnerability Analysis, Penetration Testing (OWASP Top 10, SANS, NIST)
 
